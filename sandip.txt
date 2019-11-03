@@ -1,3 +1,5 @@
+-- Time : 7.41 : Git Merge request
+
 First branch of the project
 
 This is my first text file for Git and GitHub training. 
