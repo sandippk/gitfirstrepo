@@ -1,5 +1,5 @@
-Sandip Khandelwal is a nice person. 
-She R learning azure on his own. 
+This is my first text file for Git and GitHub training. 
+Vi editor is amazing editor to have. 
 This looks very interesting. I am in love with this editor. 
 So simple to use and quite powerful.
 
